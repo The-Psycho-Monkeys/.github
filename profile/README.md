@@ -1,5 +1,12 @@
 ## The Psycho Monkeys 🐒
 
+<p align="center">Psycho Monkeys is a unique initiative focused on professional development and friendship. We take on various projects to enhance our skills and collaborate with each other, all while documenting our stories along the way. The goal is to grow together as developers and friends, leaving a legacy of our experiences and achievements.</p>
+
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
